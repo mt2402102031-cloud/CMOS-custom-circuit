@@ -5,6 +5,8 @@ When both inputs are low (logic ‘0’), the PMOS network conducts and pulls th
 For any input combination where at least one input is high, the NMOS network conducts, pulling the output low (logic ‘0’).
 Hence, the circuit performs the NOR logic operation, where the output is high only when all inputs are low.
 
+<img width="419" height="531" alt="ckt" src="https://github.com/user-attachments/assets/426551fb-3aba-41e8-8611-8c84d448f820" />
+
 Simulation and Analysis
 1. DC Analysis
 
