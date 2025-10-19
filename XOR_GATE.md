@@ -7,6 +7,9 @@ It is implemented using a combination of PMOS and NMOS transistors arranged to r
 When one input is high and the other is low, the output is driven high. When both inputs are the same (either 0 or 1), the output remains low.
 Thus, the circuit performs the XOR logic function used commonly in adders, comparators, and digital arithmetic blocks.
 
+<img width="612" height="518" alt="xor" src="https://github.com/user-attachments/assets/8a2e2d6b-15d4-4af6-8726-bb955144baa2" />
+
+
 Simulation and Analysis
 1. DC Analysis
 
