@@ -7,6 +7,9 @@ It is realized using complementary PMOS and NMOS networks that implement the log
 When both inputs are low or both are high, the output goes high; otherwise, the output remains low.
 This gate is widely used in comparators, equivalence checkers, and digital arithmetic circuits.
 
+<img width="522" height="453" alt="xnorckt" src="https://github.com/user-attachments/assets/a8ab189c-e081-47d0-a041-4f45264b8828" />
+
+
 1. DC Analysis
 
 DC analysis was performed to verify the static operation of the XNOR gate.
